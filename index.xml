@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source Program office Summit on 「OSCAR·开源之书·共读」</title>
+    <title>「OSCAR·开源之书·共读」</title>
     <link>https://osbook.club/</link>
-    <description>Recent content in Open Source Program office Summit on 「OSCAR·开源之书·共读」</description>
+    <description>Recent content on 「OSCAR·开源之书·共读」</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://osbook.club/index.xml" rel="self" type="application/rss+xml" />
