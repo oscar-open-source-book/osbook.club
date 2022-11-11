@@ -8,15 +8,6 @@
     <language>zh-CN</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://osbook.club/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keynote</title>
-      <link>https://osbook.club/services/accounting/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://osbook.club/services/accounting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>开源之书单：一</title>
       <link>https://osbook.club/work/book-list-1/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
@@ -89,12 +80,21 @@
     </item>
     
     <item>
-      <title>Neutral</title>
-      <link>https://osbook.club/services/tax-filing/</link>
+      <title>线下共读</title>
+      <link>https://osbook.club/services/meetup/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://osbook.club/services/tax-filing/</guid>
-      <description></description>
+      <guid>https://osbook.club/services/meetup/</guid>
+      <description>2022.11.19 「OSCAR· 开源之书·共读」·分享·北京站</description>
+    </item>
+    
+    <item>
+      <title>走进组织</title>
+      <link>https://osbook.club/services/go-in-company/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://osbook.club/services/go-in-company/</guid>
+      <description>演讲、沟通、探讨，只为将书中的知识应用到实际中，做到知行合一。</description>
     </item>
     
     <item>
@@ -148,39 +148,39 @@ Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro
     </item>
     
     <item>
-      <title>banquet</title>
-      <link>https://osbook.club/services/mergers/</link>
+      <title>会议活动</title>
+      <link>https://osbook.club/services/event/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://osbook.club/services/mergers/</guid>
-      <description>I don&amp;rsquo;t know. eating and talking.</description>
+      <guid>https://osbook.club/services/event/</guid>
+      <description>能够在各种技术大会上相遇本身就是缘分，为什么借此机会组织一场关于阅读与开源的会议了呢？</description>
     </item>
     
     <item>
-      <title>Business Sales</title>
-      <link>https://osbook.club/services/business-sales/</link>
+      <title>对话</title>
+      <link>https://osbook.club/services/dialogue/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://osbook.club/services/business-sales/</guid>
-      <description>you must care about this.</description>
+      <guid>https://osbook.club/services/dialogue/</guid>
+      <description>很难想象没有对话的共同体！ 开源即对话 解决分歧！寻求共同点～</description>
     </item>
     
     <item>
-      <title>Peer</title>
-      <link>https://osbook.club/services/superannuation/</link>
+      <title>学习共同体构建</title>
+      <link>https://osbook.club/services/community/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>https://osbook.club/services/superannuation/</guid>
-      <description>who you kown?</description>
+      <guid>https://osbook.club/services/community/</guid>
+      <description>我们需要通过共同的学习加深彼此的理解！ 寻找归属感</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
-      <link>https://osbook.club/services/business-advisory/</link>
+      <title>发起项目</title>
+      <link>https://osbook.club/services/program/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>https://osbook.club/services/business-advisory/</guid>
-      <description>what ever said.</description>
+      <guid>https://osbook.club/services/program/</guid>
+      <description>输出小册子，编撰文集，倡导读后感写作，都是我们值得输出的内容。</description>
     </item>
     
   </channel>

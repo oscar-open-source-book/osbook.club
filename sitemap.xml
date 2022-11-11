@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://osbook.club/services/accounting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
     <loc>https://osbook.club/work/book-list-1/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
@@ -29,7 +26,10 @@
     <loc>https://osbook.club/work/book-list-4/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://osbook.club/services/tax-filing/</loc>
+    <loc>https://osbook.club/services/meetup/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>https://osbook.club/services/go-in-company/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://osbook.club/posts/2022-11-19-co-reading-meetup/</loc>
@@ -50,16 +50,16 @@
     <loc>https://osbook.club/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>https://osbook.club/services/mergers/</loc>
+    <loc>https://osbook.club/services/event/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>https://osbook.club/services/business-sales/</loc>
+    <loc>https://osbook.club/services/dialogue/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>https://osbook.club/services/superannuation/</loc>
+    <loc>https://osbook.club/services/community/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>https://osbook.club/services/business-advisory/</loc>
+    <loc>https://osbook.club/services/program/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
     <loc>https://osbook.club/contact/</loc>
