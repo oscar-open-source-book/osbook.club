@@ -13,7 +13,16 @@
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://osbook.club/services/meetup/</guid>
-      <description>2022.11.19 「OSCAR· 开源之书·共读」·分享·北京站</description>
+      <description>历次活动 2022.11.19 「OSCAR· 开源之书·共读」·分享·北京站</description>
+    </item>
+    
+    <item>
+      <title>对话</title>
+      <link>https://osbook.club/services/dialogue/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://osbook.club/services/dialogue/</guid>
+      <description>很难想象没有对话的共同体！ 开源即对话 解决分歧！寻求共同点～</description>
     </item>
     
     <item>
@@ -35,15 +44,6 @@
     </item>
     
     <item>
-      <title>对话</title>
-      <link>https://osbook.club/services/dialogue/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>https://osbook.club/services/dialogue/</guid>
-      <description>很难想象没有对话的共同体！ 开源即对话 解决分歧！寻求共同点～</description>
-    </item>
-    
-    <item>
       <title>学习共同体构建</title>
       <link>https://osbook.club/services/community/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
@@ -58,7 +58,8 @@
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>https://osbook.club/services/program/</guid>
-      <description>输出小册子，编撰文集，倡导读后感写作，都是我们值得输出的内容。</description>
+      <description>「OSCAR·开源之书·共读书单」小册子项目 GitHub 地址： https://github.com/oscar-open-source-book/booklet-2022
+开源文集 </description>
     </item>
     
   </channel>
